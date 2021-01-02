@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
   // クラスコンポーネントは画面のロード時に一番最初に動かかすことができる
   // class Square extends React.Component {
   //   render() {
